@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #you must have seqkit installed via conda
-source /home/tomasz.gaczorek/miniconda3/etc/profile.d/conda.sh   # modify it once
+#source /home/tomasz.gaczorek/miniconda3/etc/profile.d/conda.sh   # ADJUST and run if needed (bash might not see programs inside activated conda environment)
 
 while getopts "i:p:m:F:R:" option
 do
@@ -64,8 +64,8 @@ zip -m "../MHC_${mhc_type}.zip" *
 cd ..
 rm -r ./trimmed
 
-#running amplisas
+#running amplisas - ADJUST path to the ampliSAS scripts
 if [ "$mhc_type" == "I" ]; then
-perl /usr/bin/amplisat/ampliSAS_mhci_old.pl -i "MHC_${mhc_type}.zip" -o ./ -t Illumina -thr 17
-else perl /usr/bin/amplisat/ampliSAS_mhcii.pl -i "MHC_${mhc_type}.zip" -o ./ -t Illumina -thr 17
+perl ~/amplisat/ampliSAS_mhci_old.pl -i "MHC_${mhc_type}.zip" -o ./ -t Illumina -thr 17
+else perl ~/amplisat/ampliSAS_mhcii.pl -i "MHC_${mhc_type}.zip" -o ./ -t Illumina -thr 17
 fi
