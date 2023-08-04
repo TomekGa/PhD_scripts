@@ -5,3 +5,4 @@
 3. logit_PAF.R - plotting logit transformation of PAF values to choose a better PAF threshold
 4. Duplicates_trees.R - drawing trees to graphically compare two repeated but independent runs
 5. Dendograms.R - drawing dendrograms of individuals (based on the binary matrix of genotypes) or alleles (based on aligned sequences)
+6. cluster_examination.R - examining similar MHC alleles to look for the patterns of improper clustering parameters for AmpliSAS
