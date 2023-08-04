@@ -2,3 +2,4 @@
 
 1. add_species_name.py - Adds species (or any other) name to each sequence header in fasta file
 2. aln_to_fasta_converter.py - Converts text file with aligned sequences (.aln extention) into standard fasta
+3. consensus.R - Provides consensus sequence for provided sequences

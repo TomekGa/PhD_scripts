@@ -2,3 +2,4 @@
 
 1. BLAST_script_nucl.sh - Runs blast search with DNA query
 2. BLAST_script_protein_query.sh - Runs blast search with protein query
+3. createBED_genome_assembly_BLAST.R - create BED files based on tabular BLAST outcome
