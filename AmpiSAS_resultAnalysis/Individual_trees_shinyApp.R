@@ -1,3 +1,8 @@
+#Shiny app to interactively display the tree of all alleles and mark the alleles of a single individual
+
+#REQUIRES
+#the analysed AmpliSAS outputs with Amplisas_output_analysis.R script
+
 library(shiny)
 library(ggplot2)
 library(ape)
