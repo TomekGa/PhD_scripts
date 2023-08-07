@@ -7,3 +7,4 @@
 5. decompress_parallel.R - simple wrapper to decompress multiple big files (e.g. fastq) in parallel.
 6. filter_fasta_by_names.R - get a subset of fasta sequences based on names provided with a separate table
 7. Kaufman_detection.R - script to check for unconserved MHC amino-acids based on Kaufman 1994
+8. matrix_Grantham_distances.R - script to calculate Grantham distances between aligned protein sequences
