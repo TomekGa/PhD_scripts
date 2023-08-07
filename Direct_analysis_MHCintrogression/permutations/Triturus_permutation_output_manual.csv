@@ -1,0 +1,17 @@
+VARIANT,CLASS,SP1,SP2,CLOSE,FAR,PERC_CLOSE,PERC_FAR,P_VAL,SES
+all,I,anatolicus,ivanbureschi,para,allo,15.5,5.7,0,5.3957
+all,I,cristatus,ivanbureschi,para,allo,11.9,1.9,0,3.2275
+all,I,cristatus,macedonicus,para,allo,3.3,3,0.6753,-0.322
+all,I,ivanbureschi,macedonicus,para,allo,10.7,1.5,0,5.0858
+all,II,anatolicus,ivanbureschi,para,allo,15.4,0,0.0026,2.3833
+all,II,cristatus,ivanbureschi,para,allo,16.7,0,0,3.126
+all,II,cristatus,macedonicus,para,allo,0,0,1,0
+all,II,ivanbureschi,macedonicus,para,allo,0,0,1,0
+exclusive,I,anatolicus,ivanbureschi,para,allo,4.9,0.4,0,6.6953
+exclusive,I,cristatus,ivanbureschi,para,allo,4.1,0.3,0,5.2059
+exclusive,I,cristatus,macedonicus,para,allo,1.1,0.4,0.4111,0.1955
+exclusive,I,ivanbureschi,macedonicus,para,allo,1.4,0,0,4.4911
+exclusive,II,anatolicus,ivanbureschi,para,allo,7.7,0,0.0002,4.2178
+exclusive,II,cristatus,ivanbureschi,para,allo,0,0,0.9995,-0.5881
+exclusive,II,cristatus,macedonicus,para,allo,0,0,1,0
+exclusive,II,ivanbureschi,macedonicus,para,allo,0,0,1,0

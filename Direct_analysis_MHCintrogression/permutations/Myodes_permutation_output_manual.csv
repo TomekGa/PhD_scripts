@@ -1,0 +1,5 @@
+VARIANT,CLASS,SP1,SP2,CLOSE,FAR,PERC_CLOSE,PERC_FAR,P_VAL,SES
+all,I,glareolus,rutilus,para,allo,23.3,17,0.0034,2.8085
+all,II,glareolus,rutilus,para,allo,32.3,12.2,0,3.9822
+exclusive,I,glareolus,rutilus,para,allo,2.6,1.6,0.0032,2.7396
+exclusive,II,glareolus,rutilus,para,allo,9.7,2.7,0,4.0225

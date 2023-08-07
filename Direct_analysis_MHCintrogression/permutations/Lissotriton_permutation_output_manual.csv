@@ -1,0 +1,17 @@
+VARIANT,CLASS,SP1,SP2,CLOSE,FAR,PERC_CLOSE,PERC_FAR,P_VAL,SES
+all,I,montandoniL,vulgarisL,para,allo,24.8,15.4,0.0889,1.3407
+all,I,montandoniR,vulgarisR,para,allo,32,15.4,0,4.9179
+all,I,montandoniS,vulgarisS,para,allo,20.7,22,0.564,-0.1635
+all,I,montandoniT,vulgarisT,para,allo,25.4,22,0.0524,1.5921
+all,II,montandoniL,vulgarisL,para,allo,13.3,10.4,0.4044,0.2501
+all,II,montandoniR,vulgarisR,para,allo,31.4,10.4,0,4.5582
+all,II,montandoniS,vulgarisS,para,allo,14.9,15.3,0.7022,-0.5145
+all,II,montandoniT,vulgarisT,para,allo,29.3,15.3,0.013,2.2261
+exclusive,I,montandoniL,vulgarisL,para,allo,5.2,5.4,0.9185,-1.3919
+exclusive,I,montandoniR,vulgarisR,para,allo,9.7,5.4,0,5.1746
+exclusive,I,montandoniS,vulgarisS,para,allo,6.7,4.5,0.0001,4.9605
+exclusive,I,montandoniT,vulgarisT,para,allo,9.1,5.6,0,8.2504
+exclusive,II,montandoniL,vulgarisL,para,allo,5.5,1.7,0.02,2.2305
+exclusive,II,montandoniR,vulgarisR,para,allo,17.4,4.3,0,7.7409
+exclusive,II,montandoniS,vulgarisS,para,allo,9.2,5.1,0,8.8803
+exclusive,II,montandoniT,vulgarisT,para,allo,14.7,6.1,0,7.8711

@@ -1,0 +1,309 @@
+INDIVIDUAL_ID,COLCHICA,FRAGILIS,MARKER,CLEAR,SPECIES,HYBRID_ZONE
+17218,0.68,0.32,85 SNP,FALSE,colchica,colchica_fragilis
+17219,0.9,0.1,85 SNP,FALSE,colchica,colchica_fragilis
+17220,0.94,0.0600000000000001,85 SNP,FALSE,colchica,colchica_fragilis
+17221,0.94,0.0600000000000001,85 SNP,FALSE,colchica,colchica_fragilis
+17222,0.94,0.0600000000000001,83 SNP,FALSE,colchica,colchica_fragilis
+17223,0.6,0.4,84 SNP,FALSE,colchica,colchica_fragilis
+17224,0.73,0.27,85 SNP,FALSE,colchica,colchica_fragilis
+17225,0.92,0.08,85 SNP,FALSE,colchica,colchica_fragilis
+17226,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17227,0.93,0.07,85 SNP,FALSE,colchica,colchica_fragilis
+17228,0.62,0.38,85 SNP,FALSE,colchica,colchica_fragilis
+17229,0.53,0.47,85 SNP,FALSE,colchica,colchica_fragilis
+17230,0.55,0.45,85 SNP,FALSE,colchica,colchica_fragilis
+17231,0.02,0.98,85 SNP,TRUE,fragilis,colchica_fragilis
+17232,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17233,0.19,0.81,85 SNP,FALSE,fragilis,colchica_fragilis
+17234,0.14,0.86,85 SNP,FALSE,fragilis,colchica_fragilis
+17235,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17236,0.92,0.08,85 SNP,FALSE,colchica,colchica_fragilis
+17237,0.9,0.1,84 SNP,FALSE,colchica,colchica_fragilis
+17238,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17239,0.91,0.09,82 SNP,FALSE,colchica,colchica_fragilis
+17240,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17241,0.11,0.89,85 SNP,FALSE,fragilis,colchica_fragilis
+17242,0.22,0.78,85 SNP,FALSE,fragilis,colchica_fragilis
+17243,0.02,0.98,85 SNP,TRUE,fragilis,colchica_fragilis
+17244,0.99,0.01,73 SNP,TRUE,colchica,colchica_fragilis
+17245,0.46,0.54,85 SNP,FALSE,fragilis,colchica_fragilis
+17246,0.71,0.29,85 SNP,FALSE,colchica,colchica_fragilis
+17247,0.81,0.19,85 SNP,FALSE,colchica,colchica_fragilis
+17248,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17249,0.88,0.12,84 SNP,FALSE,colchica,colchica_fragilis
+17250,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17251,0.97,0.03,32 SNP,TRUE,colchica,colchica_fragilis
+17252,0.95,0.05,84 SNP,FALSE,colchica,colchica_fragilis
+17253,0.92,0.08,85 SNP,FALSE,colchica,colchica_fragilis
+17254,0.87,0.13,85 SNP,FALSE,colchica,colchica_fragilis
+17255,0.93,0.07,84 SNP,FALSE,colchica,colchica_fragilis
+17256,0.91,0.09,85 SNP,FALSE,colchica,colchica_fragilis
+17257,0.9,0.1,85 SNP,FALSE,colchica,colchica_fragilis
+17258,0.89,0.11,85 SNP,FALSE,colchica,colchica_fragilis
+17259,0.93,0.07,85 SNP,FALSE,colchica,colchica_fragilis
+17260,0.94,0.0600000000000001,84 SNP,FALSE,colchica,colchica_fragilis
+17261,0.84,0.16,85 SNP,FALSE,colchica,colchica_fragilis
+17262,0.89,0.11,85 SNP,FALSE,colchica,colchica_fragilis
+17263,0.54,0.46,85 SNP,FALSE,colchica,colchica_fragilis
+17264,0.85,0.15,85 SNP,FALSE,colchica,colchica_fragilis
+17265,0.85,0.15,85 SNP,FALSE,colchica,colchica_fragilis
+17266,0.91,0.09,85 SNP,FALSE,colchica,colchica_fragilis
+17267,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17268,0.91,0.09,84 SNP,FALSE,colchica,colchica_fragilis
+17270,0.92,0.08,85 SNP,FALSE,colchica,colchica_fragilis
+17271,0.9,0.1,84 SNP,FALSE,colchica,colchica_fragilis
+17272,0.92,0.08,85 SNP,FALSE,colchica,colchica_fragilis
+17273,0.88,0.12,85 SNP,FALSE,colchica,colchica_fragilis
+17274,0.85,0.15,85 SNP,FALSE,colchica,colchica_fragilis
+17275,0.88,0.12,85 SNP,FALSE,colchica,colchica_fragilis
+17276,0.79,0.21,85 SNP,FALSE,colchica,colchica_fragilis
+17277,0.83,0.17,84 SNP,FALSE,colchica,colchica_fragilis
+17278,0.85,0.15,85 SNP,FALSE,colchica,colchica_fragilis
+17279,0.56,0.44,85 SNP,FALSE,colchica,colchica_fragilis
+17280,0.54,0.46,84 SNP,FALSE,colchica,colchica_fragilis
+17281,0.61,0.39,84 SNP,FALSE,colchica,colchica_fragilis
+17282,0.46,0.54,84 SNP,FALSE,fragilis,colchica_fragilis
+17283,0.49,0.51,85 SNP,FALSE,fragilis,colchica_fragilis
+17284,0.51,0.49,85 SNP,FALSE,colchica,colchica_fragilis
+17285,0.71,0.29,85 SNP,FALSE,colchica,colchica_fragilis
+17286,0.69,0.31,85 SNP,FALSE,colchica,colchica_fragilis
+17287,0.83,0.17,81 SNP,FALSE,colchica,colchica_fragilis
+17288,0.62,0.38,83 SNP,FALSE,colchica,colchica_fragilis
+17289,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17290,0.93,0.07,84 SNP,FALSE,colchica,colchica_fragilis
+17291,0.95,0.05,84 SNP,FALSE,colchica,colchica_fragilis
+17292,0.84,0.16,85 SNP,FALSE,colchica,colchica_fragilis
+17293,0.62,0.38,85 SNP,FALSE,colchica,colchica_fragilis
+17294,0.66,0.34,83 SNP,FALSE,colchica,colchica_fragilis
+17295,0.69,0.31,49 SNP,FALSE,colchica,colchica_fragilis
+17296,0.63,0.37,85 SNP,FALSE,colchica,colchica_fragilis
+17297,0.85,0.15,85 SNP,FALSE,colchica,colchica_fragilis
+17298,0.82,0.18,85 SNP,FALSE,colchica,colchica_fragilis
+17299,0.84,0.16,85 SNP,FALSE,colchica,colchica_fragilis
+17300,0.9,0.1,85 SNP,FALSE,colchica,colchica_fragilis
+17301,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17302,0.96,0.04,84 SNP,FALSE,colchica,colchica_fragilis
+17303,0.94,0.0600000000000001,84 SNP,FALSE,colchica,colchica_fragilis
+17304,0.12,0.88,85 SNP,FALSE,fragilis,colchica_fragilis
+17305,0.09,0.91,84 SNP,FALSE,fragilis,colchica_fragilis
+17306,0.05,0.95,85 SNP,FALSE,fragilis,colchica_fragilis
+17269,0.86,0.14,85 SNP,FALSE,colchica,colchica_fragilis
+17038,0.01,0.99,85 SNP,TRUE,fragilis,colchica_fragilis
+17039,0.01,0.99,85 SNP,TRUE,fragilis,colchica_fragilis
+17040,0.01,0.99,85 SNP,TRUE,fragilis,colchica_fragilis
+17041,0,1,85 SNP,TRUE,fragilis,colchica_fragilis
+17042,0.01,0.99,85 SNP,TRUE,fragilis,colchica_fragilis
+17043,0,1,85 SNP,TRUE,fragilis,colchica_fragilis
+17044,0.01,0.99,85 SNP,TRUE,fragilis,colchica_fragilis
+17045,0.03,0.97,84 SNP,TRUE,fragilis,colchica_fragilis
+17046,0.01,0.99,85 SNP,TRUE,fragilis,colchica_fragilis
+17047,0.01,0.99,83 SNP,TRUE,fragilis,colchica_fragilis
+17048,0.02,0.98,85 SNP,TRUE,fragilis,colchica_fragilis
+17049,0,1,85 SNP,TRUE,fragilis,colchica_fragilis
+17050,0.02,0.98,85 SNP,TRUE,fragilis,colchica_fragilis
+17051,0.01,0.99,85 SNP,TRUE,fragilis,colchica_fragilis
+17052,0,1,84 SNP,TRUE,fragilis,colchica_fragilis
+17053,0.01,0.99,85 SNP,TRUE,fragilis,colchica_fragilis
+17054,0.02,0.98,84 SNP,TRUE,fragilis,colchica_fragilis
+17055,0,1,85 SNP,TRUE,fragilis,colchica_fragilis
+17056,0.01,0.99,85 SNP,TRUE,fragilis,colchica_fragilis
+17059,0.01,0.99,85 SNP,TRUE,fragilis,colchica_fragilis
+17060,0.01,0.99,84 SNP,TRUE,fragilis,colchica_fragilis
+17061,0.01,0.99,85 SNP,TRUE,fragilis,colchica_fragilis
+17062,1,0,84 SNP,TRUE,colchica,colchica_fragilis
+17063,0.99,0.01,85 SNP,TRUE,colchica,colchica_fragilis
+17064,1,0,85 SNP,TRUE,colchica,colchica_fragilis
+17065,1,0,85 SNP,TRUE,colchica,colchica_fragilis
+17067,1,0,85 SNP,TRUE,colchica,colchica_fragilis
+17068,1,0,85 SNP,TRUE,colchica,colchica_fragilis
+17069,1,0,85 SNP,TRUE,colchica,colchica_fragilis
+17070,1,0,85 SNP,TRUE,colchica,colchica_fragilis
+17072,0.99,0.01,83 SNP,TRUE,colchica,colchica_fragilis
+17073,1,0,85 SNP,TRUE,colchica,colchica_fragilis
+17074,0.99,0.01,85 SNP,TRUE,colchica,colchica_fragilis
+17075,1,0,85 SNP,TRUE,colchica,colchica_fragilis
+17076,1,0,85 SNP,TRUE,colchica,colchica_fragilis
+17077,0.99,0.01,85 SNP,TRUE,colchica,colchica_fragilis
+17078,0.99,0.01,85 SNP,TRUE,colchica,colchica_fragilis
+17079,0.99,0.01,85 SNP,TRUE,colchica,colchica_fragilis
+17080,1,0,85 SNP,TRUE,colchica,colchica_fragilis
+17082,1,0,84 SNP,TRUE,colchica,colchica_fragilis
+17083,1,0,85 SNP,TRUE,colchica,colchica_fragilis
+17086,1,0,84 SNP,TRUE,colchica,colchica_fragilis
+17087,1,0,84 SNP,TRUE,colchica,colchica_fragilis
+17088,0.38,0.62,85 SNP,FALSE,fragilis,colchica_fragilis
+17089,0.77,0.23,84 SNP,FALSE,colchica,colchica_fragilis
+17090,0.19,0.81,85 SNP,FALSE,fragilis,colchica_fragilis
+17091,0.07,0.93,85 SNP,FALSE,fragilis,colchica_fragilis
+17092,0.16,0.84,85 SNP,FALSE,fragilis,colchica_fragilis
+17093,0.19,0.81,85 SNP,FALSE,fragilis,colchica_fragilis
+17094,0.2,0.8,85 SNP,FALSE,fragilis,colchica_fragilis
+17095,0.2,0.8,85 SNP,FALSE,fragilis,colchica_fragilis
+17096,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17097,0.18,0.82,85 SNP,FALSE,fragilis,colchica_fragilis
+17098,0.94,0.0600000000000001,85 SNP,FALSE,colchica,colchica_fragilis
+17099,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17100,0.18,0.82,85 SNP,FALSE,fragilis,colchica_fragilis
+17101,0.22,0.78,85 SNP,FALSE,fragilis,colchica_fragilis
+17102,0.13,0.87,85 SNP,FALSE,fragilis,colchica_fragilis
+17103,0.18,0.82,85 SNP,FALSE,fragilis,colchica_fragilis
+17104,0.07,0.93,84 SNP,FALSE,fragilis,colchica_fragilis
+17105,0.21,0.79,85 SNP,FALSE,fragilis,colchica_fragilis
+17106,0.19,0.81,85 SNP,FALSE,fragilis,colchica_fragilis
+17107,0.35,0.65,85 SNP,FALSE,fragilis,colchica_fragilis
+17108,0.07,0.93,42 SNP,FALSE,fragilis,colchica_fragilis
+17109,0.11,0.89,85 SNP,FALSE,fragilis,colchica_fragilis
+17111,0.1,0.9,85 SNP,FALSE,fragilis,colchica_fragilis
+17112,0.18,0.82,85 SNP,FALSE,fragilis,colchica_fragilis
+17113,0.29,0.71,84 SNP,FALSE,fragilis,colchica_fragilis
+17114,0.32,0.68,85 SNP,FALSE,fragilis,colchica_fragilis
+17116,0.57,0.43,84 SNP,FALSE,colchica,colchica_fragilis
+17117,0.14,0.86,85 SNP,FALSE,fragilis,colchica_fragilis
+17118,0.07,0.93,84 SNP,FALSE,fragilis,colchica_fragilis
+17119,0.71,0.29,85 SNP,FALSE,colchica,colchica_fragilis
+17120,0.94,0.0600000000000001,85 SNP,FALSE,colchica,colchica_fragilis
+17121,0.07,0.93,84 SNP,FALSE,fragilis,colchica_fragilis
+17122,0.09,0.91,85 SNP,FALSE,fragilis,colchica_fragilis
+17123,0.08,0.92,85 SNP,FALSE,fragilis,colchica_fragilis
+17124,0.25,0.75,85 SNP,FALSE,fragilis,colchica_fragilis
+17125,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17126,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17127,0.33,0.67,85 SNP,FALSE,fragilis,colchica_fragilis
+17128,0.02,0.98,85 SNP,TRUE,fragilis,colchica_fragilis
+17129,0.04,0.96,85 SNP,FALSE,fragilis,colchica_fragilis
+17130,0.27,0.73,85 SNP,FALSE,fragilis,colchica_fragilis
+17131,0.32,0.68,85 SNP,FALSE,fragilis,colchica_fragilis
+17132,0.55,0.45,85 SNP,FALSE,colchica,colchica_fragilis
+17134,0.94,0.0600000000000001,85 SNP,FALSE,colchica,colchica_fragilis
+17135,0.97,0.03,85 SNP,TRUE,colchica,colchica_fragilis
+17136,0.95,0.05,84 SNP,FALSE,colchica,colchica_fragilis
+17137,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17138,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17139,0.91,0.09,85 SNP,FALSE,colchica,colchica_fragilis
+17141,0.89,0.11,85 SNP,FALSE,colchica,colchica_fragilis
+17143,0.74,0.26,84 SNP,FALSE,colchica,colchica_fragilis
+17144,0.75,0.25,85 SNP,FALSE,colchica,colchica_fragilis
+17145,0.68,0.32,84 SNP,FALSE,colchica,colchica_fragilis
+17146,0.94,0.0600000000000001,81 SNP,FALSE,colchica,colchica_fragilis
+17147,0.85,0.15,85 SNP,FALSE,colchica,colchica_fragilis
+17148,0.91,0.09,85 SNP,FALSE,colchica,colchica_fragilis
+17149,0.88,0.12,85 SNP,FALSE,colchica,colchica_fragilis
+17150,0.9,0.1,85 SNP,FALSE,colchica,colchica_fragilis
+17151,0.91,0.09,85 SNP,FALSE,colchica,colchica_fragilis
+17152,0.91,0.09,85 SNP,FALSE,colchica,colchica_fragilis
+17153,0.87,0.13,85 SNP,FALSE,colchica,colchica_fragilis
+17155,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17156,0.72,0.28,85 SNP,FALSE,colchica,colchica_fragilis
+17159,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17160,0.89,0.11,85 SNP,FALSE,colchica,colchica_fragilis
+17161,0.94,0.0600000000000001,84 SNP,FALSE,colchica,colchica_fragilis
+17162,0.94,0.0600000000000001,85 SNP,FALSE,colchica,colchica_fragilis
+17163,0.9,0.1,85 SNP,FALSE,colchica,colchica_fragilis
+17164,0.88,0.12,85 SNP,FALSE,colchica,colchica_fragilis
+17165,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17169,0.93,0.07,85 SNP,FALSE,colchica,colchica_fragilis
+17170,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17171,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17172,0.96,0.04,84 SNP,FALSE,colchica,colchica_fragilis
+17173,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17175,0.94,0.0600000000000001,84 SNP,FALSE,colchica,colchica_fragilis
+17176,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17178,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17180,0.99,0.01,85 SNP,TRUE,colchica,colchica_fragilis
+17181,1,0,74 SNP,TRUE,colchica,colchica_fragilis
+17182,0.99,0.01,85 SNP,TRUE,colchica,colchica_fragilis
+17183,0.99,0.01,85 SNP,TRUE,colchica,colchica_fragilis
+17184,0.98,0.02,85 SNP,TRUE,colchica,colchica_fragilis
+17185,0.98,0.02,82 SNP,TRUE,colchica,colchica_fragilis
+17187,0.82,0.18,82 SNP,FALSE,colchica,colchica_fragilis
+17188,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17189,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17190,0.91,0.09,85 SNP,FALSE,colchica,colchica_fragilis
+17191,0.89,0.11,85 SNP,FALSE,colchica,colchica_fragilis
+17192,0.84,0.16,85 SNP,FALSE,colchica,colchica_fragilis
+17193,0.41,0.59,85 SNP,FALSE,fragilis,colchica_fragilis
+17194,0.61,0.39,85 SNP,FALSE,colchica,colchica_fragilis
+17195,0.53,0.47,85 SNP,FALSE,colchica,colchica_fragilis
+17196,0.51,0.49,85 SNP,FALSE,colchica,colchica_fragilis
+17197,0.39,0.61,85 SNP,FALSE,fragilis,colchica_fragilis
+17199,0.93,0.07,85 SNP,FALSE,colchica,colchica_fragilis
+17200,0.94,0.0600000000000001,85 SNP,FALSE,colchica,colchica_fragilis
+17201,0.91,0.09,85 SNP,FALSE,colchica,colchica_fragilis
+17202,0.89,0.11,85 SNP,FALSE,colchica,colchica_fragilis
+17203,0.72,0.28,85 SNP,FALSE,colchica,colchica_fragilis
+17204,0.87,0.13,85 SNP,FALSE,colchica,colchica_fragilis
+17205,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17206,0.88,0.12,84 SNP,FALSE,colchica,colchica_fragilis
+17207,0.9,0.1,85 SNP,FALSE,colchica,colchica_fragilis
+17208,0.91,0.09,85 SNP,FALSE,colchica,colchica_fragilis
+17209,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17210,0.92,0.08,85 SNP,FALSE,colchica,colchica_fragilis
+17211,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17212,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17213,0.96,0.04,85 SNP,FALSE,colchica,colchica_fragilis
+17214,0.89,0.11,48 SNP,FALSE,colchica,colchica_fragilis
+17215,0.88,0.12,85 SNP,FALSE,colchica,colchica_fragilis
+17216,0.88,0.12,84 SNP,FALSE,colchica,colchica_fragilis
+17217,0.89,0.11,84 SNP,FALSE,colchica,colchica_fragilis
+17308,0.14,0.86,85 SNP,FALSE,fragilis,colchica_fragilis
+17309,0.6,0.4,85 SNP,FALSE,colchica,colchica_fragilis
+17310,0.94,0.0600000000000001,85 SNP,FALSE,colchica,colchica_fragilis
+17311,0.56,0.44,72 SNP,FALSE,colchica,colchica_fragilis
+17315,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17316,0.88,0.12,85 SNP,FALSE,colchica,colchica_fragilis
+17317,0.89,0.11,85 SNP,FALSE,colchica,colchica_fragilis
+17318,0.94,0.0600000000000001,82 SNP,FALSE,colchica,colchica_fragilis
+17321,0.92,0.08,85 SNP,FALSE,colchica,colchica_fragilis
+17322,0.77,0.23,85 SNP,FALSE,colchica,colchica_fragilis
+17323,0.93,0.07,85 SNP,FALSE,colchica,colchica_fragilis
+17324,0.91,0.09,85 SNP,FALSE,colchica,colchica_fragilis
+17325,0.84,0.16,85 SNP,FALSE,colchica,colchica_fragilis
+17326,0.92,0.08,84 SNP,FALSE,colchica,colchica_fragilis
+17327,0.84,0.16,85 SNP,FALSE,colchica,colchica_fragilis
+17328,0.32,0.68,85 SNP,FALSE,fragilis,colchica_fragilis
+17329,0.75,0.25,84 SNP,FALSE,colchica,colchica_fragilis
+17330,0.93,0.07,85 SNP,FALSE,colchica,colchica_fragilis
+17331,0.85,0.15,85 SNP,FALSE,colchica,colchica_fragilis
+25432,0,1,inferred,TRUE,fragilis,colchica_fragilis
+25433,0,1,inferred,TRUE,fragilis,colchica_fragilis
+25434,0,1,inferred,TRUE,fragilis,colchica_fragilis
+25435,0,1,inferred,TRUE,fragilis,colchica_fragilis
+25436,0,1,inferred,TRUE,fragilis,colchica_fragilis
+25437,0,1,inferred,TRUE,fragilis,colchica_fragilis
+25438,0,1,inferred,TRUE,fragilis,colchica_fragilis
+25439,0,1,inferred,TRUE,fragilis,colchica_fragilis
+25440,0,1,inferred,TRUE,fragilis,colchica_fragilis
+25441,0,1,inferred,TRUE,fragilis,colchica_fragilis
+25442,1,0,inferred,TRUE,colchica,colchica_fragilis
+25445,1,0,inferred,TRUE,colchica,colchica_fragilis
+25446,1,0,inferred,TRUE,colchica,colchica_fragilis
+25447,1,0,inferred,TRUE,colchica,colchica_fragilis
+25448,1,0,inferred,TRUE,colchica,colchica_fragilis
+25449,1,0,inferred,TRUE,colchica,colchica_fragilis
+25450,1,0,inferred,TRUE,colchica,colchica_fragilis
+25451,1,0,inferred,TRUE,colchica,colchica_fragilis
+25454,1,0,inferred,TRUE,colchica,colchica_fragilis
+25455,1,0,inferred,TRUE,colchica,colchica_fragilis
+25457,1,0,inferred,TRUE,colchica,colchica_fragilis
+25458,1,0,inferred,TRUE,colchica,colchica_fragilis
+25459,1,0,inferred,TRUE,colchica,colchica_fragilis
+25460,1,0,inferred,TRUE,colchica,colchica_fragilis
+25469,1,0,inferred,TRUE,colchica,colchica_fragilis
+17115,0.67,0.33,62 SNP,FALSE,colchica,colchica_fragilis
+17140,0.83,0.17,84 SNP,FALSE,colchica,colchica_fragilis
+17154,0.98,0.02,27 SNP,TRUE,colchica,colchica_fragilis
+17157,0.86,0.14,7 SNP,FALSE,colchica,colchica_fragilis
+17158,1,0,16 SNP,TRUE,colchica,colchica_fragilis
+17168,0.97,0.03,19 SNP,TRUE,colchica,colchica_fragilis
+17174,0.91,0.09,11 SNP,FALSE,colchica,colchica_fragilis
+17177,0.95,0.05,85 SNP,FALSE,colchica,colchica_fragilis
+17186,0.97,0.03,16 SNP,TRUE,colchica,colchica_fragilis
+17312,0.87,0.13,85 SNP,FALSE,colchica,colchica_fragilis
+17313,0.7,0.3,83 SNP,FALSE,colchica,colchica_fragilis
+17314,0.89,0.11,85 SNP,FALSE,colchica,colchica_fragilis
+17319,0.99,0.01,72 SNP,TRUE,colchica,colchica_fragilis
+17320,0.96,0.04,80 SNP,FALSE,colchica,colchica_fragilis
+25443,1,0,inferred,TRUE,colchica,colchica_fragilis
+25444,1,0,inferred,TRUE,colchica,colchica_fragilis
+25452,1,0,inferred,TRUE,colchica,colchica_fragilis
+25453,1,0,inferred,TRUE,colchica,colchica_fragilis

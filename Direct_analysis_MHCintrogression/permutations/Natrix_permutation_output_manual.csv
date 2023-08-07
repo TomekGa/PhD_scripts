@@ -1,0 +1,9 @@
+VARIANT,CLASS,SP1,SP2,CLOSE,FAR,PERC_CLOSE,PERC_FAR,P_VAL,SES
+all,I,astreptophora,helvetica,para,allo,32.1,16.7,0.0546,1.5557
+all,I,helvetica,natrix,para,allo,50,37.5,0.1297,1.1418
+all,II,astreptophora,helvetica,para,allo,19.3,13.3,0.1904,0.9376
+all,II,helvetica,natrix,para,allo,40.8,21.4,0,5.1447
+exclusive,I,astreptophora,helvetica,para,allo,10.7,0,0.045,1.6474
+exclusive,I,helvetica,natrix,para,allo,11.1,0,0.1688,0.9733
+exclusive,II,astreptophora,helvetica,para,allo,2.2,0.5,0.3605,0.2935
+exclusive,II,helvetica,natrix,para,allo,3.4,1,0.5635,-0.1462

@@ -1,0 +1,5 @@
+VARIANT,CLASS,SP1,SP2,CLOSE,FAR,PERC_CLOSE,PERC_FAR,P_VAL,SES
+all,I,bombina,variegata,para,allo,52.4,31.7,0,3.946
+all,II,bombina,variegata,para,allo,46.7,20,0.0001,3.0679
+exclusive,I,bombina,variegata,para,allo,3.6,1,0.1753,0.9667
+exclusive,II,bombina,variegata,para,allo,0,0,0.8982,-0.3525

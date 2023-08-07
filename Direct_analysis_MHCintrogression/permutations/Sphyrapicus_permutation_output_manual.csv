@@ -1,0 +1,13 @@
+VARIANT,CLASS,SP1,SP2,CLOSE,FAR,PERC_CLOSE,PERC_FAR,P_VAL,SES
+all,I,nuchalis,ruber,para,allo,47.7,49.3,0.7061,-0.5373
+all,I,nuchalis,varius,para,allo,31.7,32.1,0.3811,0.2863
+all,I,ruber,varius,para,allo,32.1,34.6,0.3864,0.3037
+all,II,nuchalis,ruber,para,allo,41.9,44,0.6032,-0.2559
+all,II,nuchalis,varius,para,allo,43.3,24.2,0.0134,2.1304
+all,II,ruber,varius,para,allo,36.7,28.6,0.2182,0.8231
+exclusive,I,nuchalis,ruber,para,allo,3.5,1.4,0.7845,-0.8254
+exclusive,I,nuchalis,varius,para,allo,1.2,2.6,0.8463,-1.0663
+exclusive,I,ruber,varius,para,allo,2.5,2.5,0.6447,-0.4356
+exclusive,II,nuchalis,ruber,para,allo,3.2,0,0.5812,-0.3855
+exclusive,II,nuchalis,varius,para,allo,6.7,0,0.0156,2.5377
+exclusive,II,ruber,varius,para,allo,0,2.9,0.8603,-1.4746

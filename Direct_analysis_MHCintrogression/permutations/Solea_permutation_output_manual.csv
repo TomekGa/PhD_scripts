@@ -1,0 +1,5 @@
+VARIANT,CLASS,SP1,SP2,CLOSE,FAR,PERC_CLOSE,PERC_FAR,P_VAL,SES
+all,I,aegyptiaca,senegalensis,para,allo,13.5,3.7,0.0129,2.1151
+all,II,aegyptiaca,senegalensis,para,allo,15,0,0.0001,3.961
+exclusive,I,aegyptiaca,senegalensis,para,allo,9.4,1.2,0.0131,2.0788
+exclusive,II,aegyptiaca,senegalensis,para,allo,5,0,0.0005,3.6016

@@ -1,0 +1,5 @@
+VARIANT,CLASS,SP1,SP2,CLOSE,FAR,PERC_CLOSE,PERC_FAR,P_VAL,SES
+all,I,montandoni,vulgaris,para,allo,25.725,18.7,0.176325,1.9218
+all,II,montandoni,vulgaris,para,allo,22.225,12.85,0.2799,1.629975
+exclusive,I,montandoni,vulgaris,para,allo,7.675,5.225,0.22965,4.2484
+exclusive,II,montandoni,vulgaris,para,allo,11.7,4.3,0.005,6.6807

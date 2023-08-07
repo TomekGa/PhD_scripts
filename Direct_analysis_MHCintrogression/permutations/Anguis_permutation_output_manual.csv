@@ -1,0 +1,5 @@
+VARIANT,CLASS,SP1,SP2,CLOSE,FAR,PERC_CLOSE,PERC_FAR,P_VAL,SES
+all,I,colchica,fragilis,para,allo,46.5,14.9,0,4.4468
+all,II,colchica,fragilis,para,allo,20.4,5.5,0,6.908
+exclusive,I,colchica,fragilis,para,allo,3.9,1.4,0.2091,0.7094
+exclusive,II,colchica,fragilis,para,allo,5.6,0,0,4.9703

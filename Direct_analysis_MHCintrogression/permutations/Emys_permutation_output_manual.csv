@@ -1,0 +1,9 @@
+VARIANT,CLASS,SP1,SP2,CLOSE,FAR,PERC_CLOSE,PERC_FAR,P_VAL,SES
+all,I,o. occidentalis,orbicularis,para,allo,43.5,25,0.0007,2.5516
+all,I,orbicularis,trinacris,para,allo,35.7,39.3,0.5927,-0.2279
+all,II,o. occidentalis,orbicularis,para,allo,40,7.7,0.3683,0.4666
+all,II,orbicularis,trinacris,para,allo,31,17.6,0.0861,1.3677
+exclusive,I,o. occidentalis,orbicularis,para,allo,0,0,1,-0.0858
+exclusive,I,orbicularis,trinacris,para,allo,3.6,0,0.0745,1.4993
+exclusive,II,o. occidentalis,orbicularis,para,allo,15,0,0.0532,1.9557
+exclusive,II,orbicularis,trinacris,para,allo,0,2.9,0.8557,-0.9154

@@ -1,0 +1,307 @@
+"HYBRID_ZONE","MARKER","PARAMETERS","VALUES","LEVEL","TAXON","N"
+"bombina_variegataK","MHC I","center",618.392128123336,"main","Bombina",30
+"bombina_variegataK","MHC I","width",11.0060251073436,"main","Bombina",30
+"bombina_variegataK","MHC I","center",615.134943215965,"low","Bombina",30
+"bombina_variegataK","MHC I","center",630.886329953151,"high","Bombina",30
+"bombina_variegataK","MHC I","width",0.097315197029225,"low","Bombina",30
+"bombina_variegataK","MHC I","width",51.1252618503976,"high","Bombina",30
+"bombina_variegataK","MHC II","center",524.965119338882,"main","Bombina",28
+"bombina_variegataK","MHC II","width",552.274115450288,"main","Bombina",28
+"bombina_variegataK","MHC II","center",304.386472615692,"low","Bombina",28
+"bombina_variegataK","MHC II","center",597.514983604747,"high","Bombina",28
+"bombina_variegataK","MHC II","width",283.810022799142,"low","Bombina",28
+"bombina_variegataK","MHC II","width",1520.52357159058,"high","Bombina",28
+"bombina_variegataK","genomic","center",627.88201401883,"main","Bombina",25
+"bombina_variegataK","genomic","width",14.0543330646637,"main","Bombina",25
+"bombina_variegataK","genomic","center",622.796595161144,"low","Bombina",25
+"bombina_variegataK","genomic","center",632.272349988033,"high","Bombina",25
+"bombina_variegataK","genomic","width",8.17347621806375,"low","Bombina",25
+"bombina_variegataK","genomic","width",22.2627182829246,"high","Bombina",25
+"bombina_variegataJ","MHC I","center",1242.39744143914,"main","Bombina",14
+"bombina_variegataJ","MHC I","width",499.360437194659,"main","Bombina",14
+"bombina_variegataJ","MHC I","center",931.135388115399,"low","Bombina",14
+"bombina_variegataJ","MHC I","center",1322.02930006156,"high","Bombina",14
+"bombina_variegataJ","MHC I","width",112.140788013239,"low","Bombina",14
+"bombina_variegataJ","MHC I","width",1995.3266526696,"high","Bombina",14
+"bombina_variegataJ","MHC II","center",1299.88423689783,"main","Bombina",14
+"bombina_variegataJ","MHC II","width",358.850727391033,"main","Bombina",14
+"bombina_variegataJ","MHC II","center",1082.76847668594,"low","Bombina",14
+"bombina_variegataJ","MHC II","center",1401.00429667231,"high","Bombina",14
+"bombina_variegataJ","MHC II","width",105.795171007324,"low","Bombina",14
+"bombina_variegataJ","MHC II","width",2036.78696150692,"high","Bombina",14
+"bombina_variegataJ","genomic","center",1320.73705217117,"main","Bombina",13
+"bombina_variegataJ","genomic","width",90.8547014184925,"main","Bombina",13
+"bombina_variegataJ","genomic","center",1309.44730541775,"low","Bombina",13
+"bombina_variegataJ","genomic","center",1335.84740275787,"high","Bombina",13
+"bombina_variegataJ","genomic","width",49.5322111508317,"low","Bombina",13
+"bombina_variegataJ","genomic","width",205.076607058525,"high","Bombina",13
+"montandoni_vulgarisT","MHC I","center",24.2238520232954,"main","Lissotriton",29
+"montandoni_vulgarisT","MHC I","width",39.9488644859682,"main","Lissotriton",29
+"montandoni_vulgarisT","MHC I","center",19.6721430136486,"low","Lissotriton",29
+"montandoni_vulgarisT","MHC I","center",30.3407342340909,"high","Lissotriton",29
+"montandoni_vulgarisT","MHC I","width",21.4397229609057,"low","Lissotriton",29
+"montandoni_vulgarisT","MHC I","width",112.360780008466,"high","Lissotriton",29
+"montandoni_vulgarisT","MHC II","center",26.3121869221707,"main","Lissotriton",29
+"montandoni_vulgarisT","MHC II","width",8.96213470147764,"main","Lissotriton",29
+"montandoni_vulgarisT","MHC II","center",23.9892073078678,"low","Lissotriton",29
+"montandoni_vulgarisT","MHC II","center",28.9392687897792,"high","Lissotriton",29
+"montandoni_vulgarisT","MHC II","width",0.223154972057181,"low","Lissotriton",29
+"montandoni_vulgarisT","MHC II","width",20.3297232163301,"high","Lissotriton",29
+"montandoni_vulgarisT","genomic","center",25.0435789735102,"main","Lissotriton",30
+"montandoni_vulgarisT","genomic","width",12.4712533743068,"main","Lissotriton",30
+"montandoni_vulgarisT","genomic","center",24.1699914670838,"low","Lissotriton",30
+"montandoni_vulgarisT","genomic","center",26.0550778466529,"high","Lissotriton",30
+"montandoni_vulgarisT","genomic","width",9.89582020162533,"low","Lissotriton",30
+"montandoni_vulgarisT","genomic","width",16.0950650933832,"high","Lissotriton",30
+"montandoni_vulgarisS","MHC I","center",123.26595338189,"main","Lissotriton",26
+"montandoni_vulgarisS","MHC I","width",26.2650858104862,"main","Lissotriton",26
+"montandoni_vulgarisS","MHC I","center",119.633252131279,"low","Lissotriton",26
+"montandoni_vulgarisS","MHC I","center",128.028856352619,"high","Lissotriton",26
+"montandoni_vulgarisS","MHC I","width",14.9890855381966,"low","Lissotriton",26
+"montandoni_vulgarisS","MHC I","width",53.652588421789,"high","Lissotriton",26
+"montandoni_vulgarisS","MHC II","center",119.211098669882,"main","Lissotriton",26
+"montandoni_vulgarisS","MHC II","width",0.289909987437246,"main","Lissotriton",26
+"montandoni_vulgarisS","MHC II","center",119.012268033456,"low","Lissotriton",26
+"montandoni_vulgarisS","MHC II","center",119.874947963665,"high","Lissotriton",26
+"montandoni_vulgarisS","MHC II","width",0.000828434155409674,"low","Lissotriton",26
+"montandoni_vulgarisS","MHC II","width",2.35715379099247,"high","Lissotriton",26
+"montandoni_vulgarisS","genomic","center",123.304766793497,"main","Lissotriton",28
+"montandoni_vulgarisS","genomic","width",19.2611485325097,"main","Lissotriton",28
+"montandoni_vulgarisS","genomic","center",121.838151149521,"low","Lissotriton",28
+"montandoni_vulgarisS","genomic","center",124.912390174022,"high","Lissotriton",28
+"montandoni_vulgarisS","genomic","width",15.1573805939497,"low","Lissotriton",28
+"montandoni_vulgarisS","genomic","width",25.3023989060801,"high","Lissotriton",28
+"montandoni_vulgarisR2","MHC I","center",39.284872380492,"main","Lissotriton",24
+"montandoni_vulgarisR2","MHC I","width",39.9559832443594,"main","Lissotriton",24
+"montandoni_vulgarisR2","MHC I","center",33.275029607826,"low","Lissotriton",24
+"montandoni_vulgarisR2","MHC I","center",47.170594248917,"high","Lissotriton",24
+"montandoni_vulgarisR2","MHC I","width",22.173389248462,"low","Lissotriton",24
+"montandoni_vulgarisR2","MHC I","width",78.9565356191454,"high","Lissotriton",24
+"montandoni_vulgarisR2","MHC II","center",39.1744592934113,"main","Lissotriton",24
+"montandoni_vulgarisR2","MHC II","width",0.0858163637373415,"main","Lissotriton",24
+"montandoni_vulgarisR2","MHC II","center",38.8984674209988,"low","Lissotriton",24
+"montandoni_vulgarisR2","MHC II","center",43.1742588886201,"high","Lissotriton",24
+"montandoni_vulgarisR2","MHC II","width",0.000723380598486978,"low","Lissotriton",24
+"montandoni_vulgarisR2","MHC II","width",7.34187087300367,"high","Lissotriton",24
+"montandoni_vulgarisR2","genomic","center",38.3709783347641,"main","Lissotriton",24
+"montandoni_vulgarisR2","genomic","width",6.87090536883427,"main","Lissotriton",24
+"montandoni_vulgarisR2","genomic","center",36.6001182869371,"low","Lissotriton",24
+"montandoni_vulgarisR2","genomic","center",39.7209782472155,"high","Lissotriton",24
+"montandoni_vulgarisR2","genomic","width",3.59088672195762,"low","Lissotriton",24
+"montandoni_vulgarisR2","genomic","width",12.6789495757319,"high","Lissotriton",24
+"montandoni_vulgarisR","MHC I","center",27.1029035359312,"main","Lissotriton",30
+"montandoni_vulgarisR","MHC I","width",3.5682022439486,"main","Lissotriton",30
+"montandoni_vulgarisR","MHC I","center",-35.4506164524607,"low","Lissotriton",30
+"montandoni_vulgarisR","MHC I","center",34.2467418462935,"high","Lissotriton",30
+"montandoni_vulgarisR","MHC I","width",0.376480143686813,"low","Lissotriton",30
+"montandoni_vulgarisR","MHC I","width",123.011785774901,"high","Lissotriton",30
+"montandoni_vulgarisR","MHC II","center",31.3022735933427,"main","Lissotriton",29
+"montandoni_vulgarisR","MHC II","width",26.0782191694438,"main","Lissotriton",29
+"montandoni_vulgarisR","MHC II","center",17.7618791552818,"low","Lissotriton",29
+"montandoni_vulgarisR","MHC II","center",38.5014019593848,"high","Lissotriton",29
+"montandoni_vulgarisR","MHC II","width",11.069461471705,"low","Lissotriton",29
+"montandoni_vulgarisR","MHC II","width",61.0280432497735,"high","Lissotriton",29
+"montandoni_vulgarisR","genomic","center",29.3015939824842,"main","Lissotriton",30
+"montandoni_vulgarisR","genomic","width",6.90561120670346,"main","Lissotriton",30
+"montandoni_vulgarisR","genomic","center",27.8444988332479,"low","Lissotriton",30
+"montandoni_vulgarisR","genomic","center",30.5791303698633,"high","Lissotriton",30
+"montandoni_vulgarisR","genomic","width",3.6431711658687,"low","Lissotriton",30
+"montandoni_vulgarisR","genomic","width",12.2238802019274,"high","Lissotriton",30
+"montandoni_vulgarisL","MHC I","center",45.7012372769824,"main","Lissotriton",42
+"montandoni_vulgarisL","MHC I","width",2.5362783661491,"main","Lissotriton",42
+"montandoni_vulgarisL","MHC I","center",43.0452081464509,"low","Lissotriton",42
+"montandoni_vulgarisL","MHC I","center",47.9034334915052,"high","Lissotriton",42
+"montandoni_vulgarisL","MHC I","width",0.00440696377525351,"low","Lissotriton",42
+"montandoni_vulgarisL","MHC I","width",9.63824541313524,"high","Lissotriton",42
+"montandoni_vulgarisL","MHC II","center",58.184408943294,"main","Lissotriton",41
+"montandoni_vulgarisL","MHC II","width",50.5489976948487,"main","Lissotriton",41
+"montandoni_vulgarisL","MHC II","center",50.0810495946316,"low","Lissotriton",41
+"montandoni_vulgarisL","MHC II","center",68.5366931889422,"high","Lissotriton",41
+"montandoni_vulgarisL","MHC II","width",23.7584565359979,"low","Lissotriton",41
+"montandoni_vulgarisL","MHC II","width",129.006985378181,"high","Lissotriton",41
+"montandoni_vulgarisL","genomic","center",43.8191894056732,"main","Lissotriton",48
+"montandoni_vulgarisL","genomic","width",9.85999759195703,"main","Lissotriton",48
+"montandoni_vulgarisL","genomic","center",43.0986885923546,"low","Lissotriton",48
+"montandoni_vulgarisL","genomic","center",44.724684716772,"high","Lissotriton",48
+"montandoni_vulgarisL","genomic","width",7.77766746703763,"low","Lissotriton",48
+"montandoni_vulgarisL","genomic","width",12.94427920395,"high","Lissotriton",48
+"ivanbureschi_macedonicus","MHC I","center",31.819013441827,"main","Triturus",82
+"ivanbureschi_macedonicus","MHC I","width",130.811271260338,"main","Triturus",82
+"ivanbureschi_macedonicus","MHC I","center",18.9863835323291,"low","Triturus",82
+"ivanbureschi_macedonicus","MHC I","center",46.0505794685546,"high","Triturus",82
+"ivanbureschi_macedonicus","MHC I","width",95.0745766348287,"low","Triturus",82
+"ivanbureschi_macedonicus","MHC I","width",188.372743571333,"high","Triturus",82
+"ivanbureschi_macedonicus","MHC II","center",2.64995642421016,"main","Triturus",80
+"ivanbureschi_macedonicus","MHC II","width",7.79346162131095,"main","Triturus",80
+"ivanbureschi_macedonicus","MHC II","center",-1.61999608578555,"low","Triturus",80
+"ivanbureschi_macedonicus","MHC II","center",5.26564679995104,"high","Triturus",80
+"ivanbureschi_macedonicus","MHC II","width",3.26409763978776,"low","Triturus",80
+"ivanbureschi_macedonicus","MHC II","width",16.6473246221935,"high","Triturus",80
+"ivanbureschi_macedonicus","genomic","center",0.509742861985297,"main","Triturus",167
+"ivanbureschi_macedonicus","genomic","width",34.6940799229592,"main","Triturus",167
+"ivanbureschi_macedonicus","genomic","center",-3.47776354389658,"low","Triturus",167
+"ivanbureschi_macedonicus","genomic","center",4.8184653371584,"high","Triturus",167
+"ivanbureschi_macedonicus","genomic","width",23.3598942615749,"low","Triturus",167
+"ivanbureschi_macedonicus","genomic","width",47.8606547092172,"high","Triturus",167
+"cristatus_macedonicus","MHC I","center",86.7340794542596,"main","Triturus",59
+"cristatus_macedonicus","MHC I","width",311.903188149886,"main","Triturus",59
+"cristatus_macedonicus","MHC I","center",50.7021954168084,"low","Triturus",59
+"cristatus_macedonicus","MHC I","center",120.087901726598,"high","Triturus",59
+"cristatus_macedonicus","MHC I","width",232.12783520234,"low","Triturus",59
+"cristatus_macedonicus","MHC I","width",441.571667147255,"high","Triturus",59
+"cristatus_macedonicus","MHC II","center",8.56973885650709,"main","Triturus",55
+"cristatus_macedonicus","MHC II","width",20.7811604365981,"main","Triturus",55
+"cristatus_macedonicus","MHC II","center",-14.6080499268337,"low","Triturus",55
+"cristatus_macedonicus","MHC II","center",34.6173925033516,"high","Triturus",55
+"cristatus_macedonicus","MHC II","width",0.00202728218672377,"low","Triturus",55
+"cristatus_macedonicus","MHC II","width",98.1879742232132,"high","Triturus",55
+"cristatus_macedonicus","genomic","center",1.92032170672508,"main","Triturus",127
+"cristatus_macedonicus","genomic","width",13.0073142073058,"main","Triturus",127
+"cristatus_macedonicus","genomic","center",-13.5497971776263,"low","Triturus",127
+"cristatus_macedonicus","genomic","center",11.653447682778,"high","Triturus",127
+"cristatus_macedonicus","genomic","width",0.114789985060137,"low","Triturus",127
+"cristatus_macedonicus","genomic","width",35.3024923736741,"high","Triturus",127
+"cristatus_ivanbureschi","MHC I","center",-3.98592795361361,"main","Triturus",57
+"cristatus_ivanbureschi","MHC I","width",49.2793872589711,"main","Triturus",57
+"cristatus_ivanbureschi","MHC I","center",-13.5969299436323,"low","Triturus",57
+"cristatus_ivanbureschi","MHC I","center",8.42459706229563,"high","Triturus",57
+"cristatus_ivanbureschi","MHC I","width",0.0867857859856294,"low","Triturus",57
+"cristatus_ivanbureschi","MHC I","width",111.131624656523,"high","Triturus",57
+"cristatus_ivanbureschi","MHC II","center",-29.3239254782233,"main","Triturus",55
+"cristatus_ivanbureschi","MHC II","width",92.1024497705945,"main","Triturus",55
+"cristatus_ivanbureschi","MHC II","center",-60.0637341323393,"low","Triturus",55
+"cristatus_ivanbureschi","MHC II","center",-13.5410541943788,"high","Triturus",55
+"cristatus_ivanbureschi","MHC II","width",51.4386754844381,"low","Triturus",55
+"cristatus_ivanbureschi","MHC II","width",180.44889961254,"high","Triturus",55
+"cristatus_ivanbureschi","genomic","center",0.0816699770675673,"main","Triturus",156
+"cristatus_ivanbureschi","genomic","width",8.28337475446204,"main","Triturus",156
+"cristatus_ivanbureschi","genomic","center",-2.9148222450182,"low","Triturus",156
+"cristatus_ivanbureschi","genomic","center",3.34894960240035,"high","Triturus",156
+"cristatus_ivanbureschi","genomic","width",0.00888107321710319,"low","Triturus",156
+"cristatus_ivanbureschi","genomic","width",16.8021193379118,"high","Triturus",156
+"anatolicus_ivanbureschi","MHC I","center",43.372515939525,"main","Triturus",60
+"anatolicus_ivanbureschi","MHC I","width",313.346410775059,"main","Triturus",60
+"anatolicus_ivanbureschi","MHC I","center",-2.32683255257055,"low","Triturus",60
+"anatolicus_ivanbureschi","MHC I","center",88.0943560506111,"high","Triturus",60
+"anatolicus_ivanbureschi","MHC I","width",221.389134062242,"low","Triturus",60
+"anatolicus_ivanbureschi","MHC I","width",454.648046262928,"high","Triturus",60
+"anatolicus_ivanbureschi","MHC II","center",71.0180477028665,"main","Triturus",60
+"anatolicus_ivanbureschi","MHC II","width",425.586091321952,"main","Triturus",60
+"anatolicus_ivanbureschi","MHC II","center",15.4855016283601,"low","Triturus",60
+"anatolicus_ivanbureschi","MHC II","center",124.581313752055,"high","Triturus",60
+"anatolicus_ivanbureschi","MHC II","width",309.247768061078,"low","Triturus",60
+"anatolicus_ivanbureschi","MHC II","width",600.321916680984,"high","Triturus",60
+"anatolicus_ivanbureschi","genomic","center",-0.629045112837296,"main","Triturus",131
+"anatolicus_ivanbureschi","genomic","width",21.2185529905826,"main","Triturus",131
+"anatolicus_ivanbureschi","genomic","center",-4.58246422426112,"low","Triturus",131
+"anatolicus_ivanbureschi","genomic","center",3.65068930718998,"high","Triturus",131
+"anatolicus_ivanbureschi","genomic","width",15.4938236842714,"low","Triturus",131
+"anatolicus_ivanbureschi","genomic","width",31.234188131853,"high","Triturus",131
+"colchica_fragilisA","MHC I","center",607.361087180156,"main","Anguis",156
+"colchica_fragilisA","MHC I","width",455.77291740826,"main","Anguis",156
+"colchica_fragilisA","MHC I","center",576.488197606679,"low","Anguis",156
+"colchica_fragilisA","MHC I","center",640.503509180897,"high","Anguis",156
+"colchica_fragilisA","MHC I","width",299.662376877636,"low","Anguis",156
+"colchica_fragilisA","MHC I","width",754.020444825541,"high","Anguis",156
+"colchica_fragilisA","MHC II","center",629.86947741134,"main","Anguis",167
+"colchica_fragilisA","MHC II","width",379.097125604055,"main","Anguis",167
+"colchica_fragilisA","MHC II","center",605.404024696904,"low","Anguis",167
+"colchica_fragilisA","MHC II","center",663.311959078864,"high","Anguis",167
+"colchica_fragilisA","MHC II","width",255.810624537146,"low","Anguis",167
+"colchica_fragilisA","MHC II","width",600.196671767367,"high","Anguis",167
+"colchica_fragilisA","genomic","center",615.666933816807,"main","Anguis",168
+"colchica_fragilisA","genomic","width",45.4465904454264,"main","Anguis",168
+"colchica_fragilisA","genomic","center",608.241699836477,"low","Anguis",168
+"colchica_fragilisA","genomic","center",626.245024653654,"high","Anguis",168
+"colchica_fragilisA","genomic","width",18.3659250863354,"low","Anguis",168
+"colchica_fragilisA","genomic","width",77.2995449794981,"high","Anguis",168
+"occidentalis_orbicularisA","MHC I","center",891.47722301241,"main","Emys",31
+"occidentalis_orbicularisA","MHC I","width",1.65462740881488,"main","Emys",31
+"occidentalis_orbicularisA","MHC I","center",874.162175767466,"low","Emys",31
+"occidentalis_orbicularisA","MHC I","center",965.351320476245,"high","Emys",31
+"occidentalis_orbicularisA","MHC I","width",0.00468665172681426,"low","Emys",31
+"occidentalis_orbicularisA","MHC I","width",113.950548815383,"high","Emys",31
+"occidentalis_orbicularisA","MHC II","center",786.129803287562,"main","Emys",29
+"occidentalis_orbicularisA","MHC II","width",662.212176401164,"main","Emys",29
+"occidentalis_orbicularisA","MHC II","center",685.08849128572,"low","Emys",29
+"occidentalis_orbicularisA","MHC II","center",851.959648186686,"high","Emys",29
+"occidentalis_orbicularisA","MHC II","width",404.692555034646,"low","Emys",29
+"occidentalis_orbicularisA","MHC II","width",1287.57463292425,"high","Emys",29
+"occidentalis_orbicularisA","genomic","center",917.652226940588,"main","Emys",41
+"occidentalis_orbicularisA","genomic","width",64.3003968608346,"main","Emys",41
+"occidentalis_orbicularisA","genomic","center",861.605795735293,"low","Emys",41
+"occidentalis_orbicularisA","genomic","center",944.611232554868,"high","Emys",41
+"occidentalis_orbicularisA","genomic","width",0.00330195932194499,"low","Emys",41
+"occidentalis_orbicularisA","genomic","width",97.9268147793989,"high","Emys",41
+"nuchalis_ruberNR","MHC I","center",2242.79739263509,"main","Sphyrapicus",37
+"nuchalis_ruberNR","MHC I","width",458.09208719429,"main","Sphyrapicus",37
+"nuchalis_ruberNR","MHC I","center",2041.96237122422,"low","Sphyrapicus",37
+"nuchalis_ruberNR","MHC I","center",2396.92025035901,"high","Sphyrapicus",37
+"nuchalis_ruberNR","MHC I","width",250.040917182326,"low","Sphyrapicus",37
+"nuchalis_ruberNR","MHC I","width",2853.45544787382,"high","Sphyrapicus",37
+"nuchalis_ruberNR","MHC II","center",2221.81598735895,"main","Sphyrapicus",38
+"nuchalis_ruberNR","MHC II","width",382.8036477318,"main","Sphyrapicus",38
+"nuchalis_ruberNR","MHC II","center",1982.78142842162,"low","Sphyrapicus",38
+"nuchalis_ruberNR","MHC II","center",2304.62565536313,"high","Sphyrapicus",38
+"nuchalis_ruberNR","MHC II","width",169.894945166557,"low","Sphyrapicus",38
+"nuchalis_ruberNR","MHC II","width",2354.92871312609,"high","Sphyrapicus",38
+"nuchalis_ruberNR","genomic","center",2228.60564730517,"main","Sphyrapicus",38
+"nuchalis_ruberNR","genomic","width",60.2563343310612,"main","Sphyrapicus",38
+"nuchalis_ruberNR","genomic","center",2214.82922199873,"low","Sphyrapicus",38
+"nuchalis_ruberNR","genomic","center",2254.73357394743,"high","Sphyrapicus",38
+"nuchalis_ruberNR","genomic","width",25.6477971989317,"low","Sphyrapicus",38
+"nuchalis_ruberNR","genomic","width",149.809132295803,"high","Sphyrapicus",38
+"helvetica_natrixHN4","MHC I","center",1463.63776999154,"main","Natrix",24
+"helvetica_natrixHN4","MHC I","width",1704.19336182291,"main","Natrix",24
+"helvetica_natrixHN4","MHC I","center",1117.7740666284,"low","Natrix",24
+"helvetica_natrixHN4","MHC I","center",1767.96280271635,"high","Natrix",24
+"helvetica_natrixHN4","MHC I","width",957.937837093224,"low","Natrix",24
+"helvetica_natrixHN4","MHC I","width",3820.7389248858,"high","Natrix",24
+"helvetica_natrixHN4","MHC II","center",1275.00804628315,"main","Natrix",24
+"helvetica_natrixHN4","MHC II","width",597.146145038698,"main","Natrix",24
+"helvetica_natrixHN4","MHC II","center",1052.38494401867,"low","Natrix",24
+"helvetica_natrixHN4","MHC II","center",1426.94510284293,"high","Natrix",24
+"helvetica_natrixHN4","MHC II","width",257.046666635917,"low","Natrix",24
+"helvetica_natrixHN4","MHC II","width",1535.27024638317,"high","Natrix",24
+"helvetica_natrixHN4","genomic","center",1446.9160846805,"main","Natrix",56
+"helvetica_natrixHN4","genomic","width",420.743678212037,"main","Natrix",56
+"helvetica_natrixHN4","genomic","center",1382.17381186505,"low","Natrix",56
+"helvetica_natrixHN4","genomic","center",1523.21223508229,"high","Natrix",56
+"helvetica_natrixHN4","genomic","width",297.289889121438,"low","Natrix",56
+"helvetica_natrixHN4","genomic","width",580.369280202107,"high","Natrix",56
+"helvetica_natrixHN2","MHC I","center",1244.62844677556,"main","Natrix",44
+"helvetica_natrixHN2","MHC I","width",840.289350937428,"main","Natrix",44
+"helvetica_natrixHN2","MHC I","center",1215.21671558074,"low","Natrix",44
+"helvetica_natrixHN2","MHC I","center",1414.74571843954,"high","Natrix",44
+"helvetica_natrixHN2","MHC I","width",708.489673460256,"low","Natrix",44
+"helvetica_natrixHN2","MHC I","width",2428.63561346223,"high","Natrix",44
+"helvetica_natrixHN2","MHC II","center",1204.12175420836,"main","Natrix",43
+"helvetica_natrixHN2","MHC II","width",759.351095665652,"main","Natrix",43
+"helvetica_natrixHN2","MHC II","center",1086.4496893942,"low","Natrix",43
+"helvetica_natrixHN2","MHC II","center",1325.16439418249,"high","Natrix",43
+"helvetica_natrixHN2","MHC II","width",568.634095260891,"low","Natrix",43
+"helvetica_natrixHN2","MHC II","width",1832.85761689118,"high","Natrix",43
+"helvetica_natrixHN2","genomic","center",1154.19782094246,"main","Natrix",159
+"helvetica_natrixHN2","genomic","width",230.449659009267,"main","Natrix",159
+"helvetica_natrixHN2","genomic","center",1141.17105736995,"low","Natrix",159
+"helvetica_natrixHN2","genomic","center",1166.89777392643,"high","Natrix",159
+"helvetica_natrixHN2","genomic","width",180.971575675397,"low","Natrix",159
+"helvetica_natrixHN2","genomic","width",306.252175376738,"high","Natrix",159
+"aegyptiaca_senegalensisA","MHC I","center",3690.42564297308,"main","Solea",11
+"aegyptiaca_senegalensisA","MHC I","width",1426.13455788189,"main","Solea",11
+"aegyptiaca_senegalensisA","MHC I","center",3407.11936904516,"low","Solea",11
+"aegyptiaca_senegalensisA","MHC I","center",4688.36656134628,"high","Solea",11
+"aegyptiaca_senegalensisA","MHC I","width",702.087402599451,"low","Solea",11
+"aegyptiaca_senegalensisA","MHC I","width",3824.77580271968,"high","Solea",11
+"aegyptiaca_senegalensisA","MHC II","center",3735.63800492719,"main","Solea",11
+"aegyptiaca_senegalensisA","MHC II","width",2006.69063052889,"main","Solea",11
+"aegyptiaca_senegalensisA","MHC II","center",3401.00000237805,"low","Solea",11
+"aegyptiaca_senegalensisA","MHC II","center",4723.90176115031,"high","Solea",11
+"aegyptiaca_senegalensisA","MHC II","width",1009.1767297668,"low","Solea",11
+"aegyptiaca_senegalensisA","MHC II","width",4845.01535949155,"high","Solea",11
+"aegyptiaca_senegalensisA","genomic","center",3121.831372664,"main","Solea",11
+"aegyptiaca_senegalensisA","genomic","width",32.0761728904149,"main","Solea",11
+"aegyptiaca_senegalensisA","genomic","center",3113.98314029579,"low","Solea",11
+"aegyptiaca_senegalensisA","genomic","center",3133.99268846059,"high","Solea",11
+"aegyptiaca_senegalensisA","genomic","width",0.858869795844505,"low","Solea",11
+"aegyptiaca_senegalensisA","genomic","width",51.9599507893004,"high","Solea",11
