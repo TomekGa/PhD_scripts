@@ -8,3 +8,4 @@
 6. filter_fasta_by_names.R - get a subset of fasta sequences based on names provided with a separate table
 7. Kaufman_detection.R - script to check for unconserved MHC amino-acids based on Kaufman 1994
 8. matrix_Grantham_distances.R - script to calculate Grantham distances between aligned protein sequences
+9. read_csv_function.sql - definition of functions which might be incorporated to postgresql - filter observations based on csv file provided as url link
