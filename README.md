@@ -5,4 +5,5 @@ Scripts used for data analysis in the MHC introgression project
 2. AmpiSAS_resultAnalysis/ - scripts used to analyse AmpliSAS outputs
 3. BLASTing/ - scripts used to run and analyse BLAST searches
 4. short_simple_specific/ - simple scripts created to perform short and specific tasks
-5. build_circular_tree.R - Draws circular tree of DNA sequences - filters sequences, aligns sequences, builds tree, draws circular tree
+5. hzar_wrapper - scripts used to fit and analyse geographic clines with hzar package
+6. build_circular_tree.R - Draws circular tree of DNA sequences - filters sequences, aligns sequences, builds tree, draws circular tree
