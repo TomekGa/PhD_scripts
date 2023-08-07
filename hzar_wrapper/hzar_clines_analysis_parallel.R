@@ -2,7 +2,7 @@
 #tomek.gaczorek@gmail.com
 
 #wrapper to fit geographic clines with hzar package using multiple cores
-#it also automatically gathers the best model and all needed paramethers
+#it also automatically gathers the best model and all needed parameters
 
 library(hzar)
 library(dplyr)
