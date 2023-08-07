@@ -5,3 +5,4 @@
 3. createBED_genome_assembly_BLAST.R - create BED files based on tabular BLAST outcome
 4. cuting_seq_from_BLAST.py - retrieve sequences from assembly base on pairwise BLAST output (based on DNA)
 5. fasta_id_recov_LAST.py - script required by "cuting_seq_from_BLAST.py" - mostly developed by Dr Gemma Palomar
+6. chromosomal_coordinates_BLAST_CDS.R - script to get chromosomal coordinates for the hits of BLAST perforem on CDS
