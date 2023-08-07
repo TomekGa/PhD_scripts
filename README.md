@@ -12,4 +12,5 @@ Scripts used for data analysis in the MHC introgression project
 9. raw_mapping.py - perform mapping of raw reads to reference sequences using bowtie2
 10. sra.tool.py - download raw reads from SRA based on the text file with accessions
 11. perform STRUCTURE analysis in parallel
+12. trinity_tool.py - creates de novo RNA assembly using Trinity software
 
