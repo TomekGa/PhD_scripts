@@ -11,4 +11,5 @@ Scripts used for data analysis in the MHC introgression project
 8. primers_design_MHC.py - script to design multiple primers for highly variable regions (e.g. MHC)
 9. raw_mapping.py - perform mapping of raw reads to reference sequences using bowtie2
 10. sra.tool.py - download raw reads from SRA based on the text file with accessions
+11. perform STRUCTURE analysis in parallel
 
