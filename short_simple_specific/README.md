@@ -5,3 +5,4 @@
 3. consensus.R - Provides consensus sequence for provided sequences
 4. Dealing_with_big_tables.R - the instruction how to use SQLLite and corresponding R packages to deal with big tables which cannot be read into RAM memory
 5. decompress_parallel.R - simple wrapper to decompress multiple big files (e.g. fastq) in parallel.
+6. filter_fasta_by_names.R - get a subset of fasta sequences based on names provided with a separate table
