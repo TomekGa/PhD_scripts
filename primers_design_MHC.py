@@ -8,6 +8,7 @@
 #it works well for big number of sequences
 #note that it might not provide the optimal primer combination in all cases as the algorithm cannot check all combinations
 #the script ignores all sequences with gaps in the analysed window
+#afterwards the chosen primers should be checked for physico-chemical properties (usually compare multiple windows)
 
 #REQUIRES:
 # - aligned fasta file - each second line must be a sequence (make sure the sequence is not splitted into multiple rows)
