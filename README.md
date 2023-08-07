@@ -8,3 +8,4 @@ Scripts used for data analysis in the MHC introgression project
 5. hzar_wrapper - scripts used to fit and analyse geographic clines with hzar package
 6. build_circular_tree.R - Draws circular tree of DNA sequences - filters sequences, aligns sequences, builds tree, draws circular tree
 7. MHC_allele_sharing_with_permutations_TG_SES.py - modified prof. Babik's script performing permutation test for increased sharing of MHC alleles in parapatry. 
+8. primers_design_MHC.py - script to design multiple primers for highly variable regions (e.g. MHC)
