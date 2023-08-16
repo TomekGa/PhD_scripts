@@ -11,4 +11,5 @@
 ```{r}
 require(shiny)
 runGitHub("TomekGa/PhD_scripts",ref = "main",subdir = "AmpiSAS_resultAnalysis/Individual_trees_shinyApp.R")
+#click on "Random individual"
 ```
